@@ -29,3 +29,10 @@ font-family: "sedan",serif;
     font-size: 32px;
     color:var(--verde)
 }
+.botao{
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+}
